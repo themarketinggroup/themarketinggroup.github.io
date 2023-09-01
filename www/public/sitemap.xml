@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://{$domain}/</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/about-us.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/contact-us.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/licensing.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/terms-of-service.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/privacy-policy.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+	<url>
+		<loc>https://{$domain}/pages/meta.html</loc>
+		<lastmod>2023-09-01</lastmod>
+	</url>
+</urlset>

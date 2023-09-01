@@ -1,1 +1,1 @@
-# ritchey_website_template_i4
+This file is only here for compatibility purposes. See "/About.txt" instead.

@@ -1,0 +1,5 @@
+This is an example snippet. It contains a mixture of plain text, HTML, and CSS. Snippets are useful if you want o integrate content into the website that is under a different license, but make it easy for other's to delete when forking your source code.
+
+<div style='background-color:#CCC;text-align:center;padding:8px;'>This is a div with inline styles.</div>
+
+<div>This is a div without any style provided by the snippet.</div>

@@ -1,0 +1,6 @@
+To Do:
+- Add support in browse.js for making "resource" links open in new tab by default. However, make this easy to disable in the code.
+- Make type indicator on browse page line up to right-side of page. Currently, because "post" and "page" are shorter words than "resource" there is blank space on their right side.
+- Transition more Javascript into js files.
+- Write instructions for setting it up on GitHub Pages, and GitLab Pages.
+- Write instructions for adding a Disqus comment section to posts.

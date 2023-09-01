@@ -1,0 +1,17 @@
+How To Use This Template:
+
+- Edit the contents of '/www/public/assets/global-variables-v1.js' to have your values.
+- Edit the contents of '/www/public/assets/global-echos-v1.js' to have your values.
+- Edit the HTML documents in '/www/public/pages' to have your content.
+- Replace the HTML documents in '/www/public/posts' with your own posts. These will need to be added to the database before they show up on the Browse page.
+- Add any files you wish to upload into '/www/public/uploads'. These will need to be added to the database before they show up on the Browse. You may not wish to have them do so if they just meant to be linked to, or embedded into posts.
+- Update the database '/www/public/databases/content.txt' so that it lists all posts, pages, and resources. Each entry goes on its own line. It is formatted like a CSV file, but uses "|" as a separator instead of a comma. The entry format is "{$title}|{$relative_url}|{$type}|{$tags}".
+- In '/www/public/robots.txt' replace "{$domain}" with your site's domain name.
+- In '/www/public/humans.txt' change the last updated date.
+- In '/www/public/sitemap.xml' replace "{$domain}" with your site's domain name.
+- Replace the ".*-favicon.*.png" files in '/www/public' with your own favicons. Keep in mind the favicon is also used as the site logo in header, so they must exist!
+- Upload the contents of '/www/public' to the public directory of your webserver. The name of this directory will vary depending on your host. Common names are "public_html", "html", and "docs" (used by GitHub).
+
+Notes:
+- This template uses HTML, XML, Javascript, CSS, etc. You will need basic knowledge of most of these to properly edit, and use the template.
+Author:James Daniel Marrs Ritchey
