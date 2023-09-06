@@ -1,13 +1,14 @@
 Name:Ritchey Website Template
 Implementation:4
-Version:1
-Long Identifier:Ritchey Website Template i4 v1
-Short Identifier:RWTi4v1
+Version:2
+Long Identifier:Ritchey Website Template i4 v2
+Short Identifier:RWTi4v2
 Description:A basic website template written in HTML, Javascript, and CSS. It can be served from static-file only hosts, provides standard website pages (e.g., About Us, Terms of Service, Privacy Policy), allows the addition of custom pages (referred to as posts), and has a built in search feature.
 History:
  - Project started August 26, 2023.
  - Version 1 released September 1, 2023.
+ - Version 2 released September 5, 2023.
 Notes:
-- Requires Javascript.
+- The webpages included have default text, some of which mentions licensing. This text is merely an example, and does not have any legal authority over the licensing of this project.
 Author:James Daniel Marrs Ritchey
 License:Ritchey Permissive License v15

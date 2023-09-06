@@ -8,6 +8,7 @@
 <link rel="shortcut icon" type="image/png" href="/favicon-256x256.png"/>
 <link rel="stylesheet" href="/assets/page-v1.css">
 <link rel="stylesheet" href="/assets/post-v1.css">
+<link rel="stylesheet" href="/assets/snippets-imports-v1.css">
 <style>
 
 </style>
@@ -32,14 +33,31 @@ window.file1_path = '/foreign/snippets/ritchey_permissive_license_v15/snippet_1.
 var file_contents1 = new XMLHttpRequest();
 file_contents1.onload = function(){
 	const n = 0;
-	const element = document.getElementsByClassName("snippet")[n];
+	const element = document.getElementsByClassName("snippet_distinguished")[n];
 	element.innerHTML = this.responseText;
 }
 file_contents1.open("GET", window.file1_path, true);
 file_contents1.responseType = 'text';
 file_contents1.send();
 </script>
-<p class='snippet' id='snippet1'>The content for this snippet is either unavailable, or failed to load. Check that your browser has Javascript enabled.</p>
+<p class='snippet_distinguished' id='snippet_distinguished1'>The content for this snippet is either unavailable, or failed to load. Check that your browser has Javascript enabled.</p>
+
+<script>
+//Set the path to the snippet licensing file. This is used to import the content into this webpage.
+window.file1_path = '/foreign/snippets/ritchey_permissive_license_v15/About.txt';
+</script>
+<script>
+var file_contents1 = new XMLHttpRequest();
+file_contents1.onload = function(){
+	const n = 0;
+	const element = document.getElementsByClassName("snippet_distinguished_license")[n];
+	element.innerHTML = this.responseText;
+}
+file_contents1.open("GET", window.file1_path, true);
+file_contents1.responseType = 'text';
+file_contents1.send();
+</script>
+<p class='snippet_distinguished_license' id='snippet_distinguished_license1'>The content for this element is either unavailable, or failed to load. Check that your browser has Javascript enabled.</p>
 
 <div class='padding_1'></div>
 

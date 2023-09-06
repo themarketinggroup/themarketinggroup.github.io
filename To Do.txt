@@ -1,4 +1,5 @@
 To Do:
+- Add support for distinguished snippets having an identifer that says "Snippet (i)", and a button below that says "View snippet licensing information.". When clicked it will display the div that has the licensing information, and change the message to "Hide snippet licensing information.". Clicking the identifier will provide a pop-over div that says "A snippet is a piece of content that is imported into the page from a seperate file. It may contain content that falls under different licensing terms."
 - Add support in browse.js for making "resource" links open in new tab by default. However, make this easy to disable in the code.
 - Make type indicator on browse page line up to right-side of page. Currently, because "post" and "page" are shorter words than "resource" there is blank space on their right side.
 - Transition more Javascript into js files.
