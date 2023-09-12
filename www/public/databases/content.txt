@@ -1,10 +1,10 @@
-Home|/|page|
-About Us|/pages/about-us.html|page|Meta
-Contact Us|/pages/contact-us.html|page|Meta
-Licensing|/pages/licensing.html|page|Meta
-Privacy Policy|/pages/privacy-policy.html|page|Meta
-Terms of Service|/pages/terms-of-service.html|page|Meta
-Meta|/pages/meta.html|page|Meta
-Example Post Y2023M8D26H2M27S44|/posts/example-post-Y2023M8D26H2M27S44.html|post|Example
-Example Post Y2023M8D26H2M27S57|/posts/example-post-Y2023M8D26H2M27S57.html|post|Example
-Ritchey Permissive License v15|/uploads/Ritchey Permissive License v15.txt|resource|License
+Home|/|page|||
+About Us|/pages/about-us.html|page|Meta||
+Contact Us|/pages/contact-us.html|page|Meta||
+Licensing|/pages/licensing.html|page|Meta||
+Privacy Policy|/pages/privacy-policy.html|page|Meta||
+Terms of Service|/pages/terms-of-service.html|page|Meta||
+Meta|/pages/meta.html|page|Meta||
+Example Post Y2023M8D26H2M27S44|/posts/example-post-Y2023M8D26H2M27S44/example-post-Y2023M8D26H2M27S44.html|post|Example,Test,Default|/assets/thumbnail-512x288.png|/posts/example-post-Y2023M8D26H2M27S44/description.txt
+Example Post Y2023M8D26H2M27S57|/posts/example-post-Y2023M8D26H2M27S57/example-post-Y2023M8D26H2M27S57.html|post|Example,Test,Default|/assets/thumbnail-512x288.png|/posts/example-post-Y2023M8D26H2M27S57/description.txt
+Ritchey Permissive License v15|/foreign/uploads/ritchey_permissive_license_v15//Ritchey Permissive License v15.txt|resource|License||

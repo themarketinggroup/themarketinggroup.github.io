@@ -4,8 +4,10 @@ How To Use This Template:
 - Edit the contents of '/www/public/assets/global-echos-v1.js' to have your values.
 - Edit the HTML documents in '/www/public/pages' to have your content.
 - Replace the HTML documents in '/www/public/posts' with your own posts. These will need to be added to the database before they show up on the Browse page.
+- If you want your posts to have a thumbnail displayed on the browse page, you can store an image with them, and add it to your database entry, when you get to that step.
+- If you want your posts to have a description displayed on the browse page, you can store a "description.txt" file with them, and add that URL to your database entry, when you get to that step.
 - Add any files you wish to upload into '/www/public/uploads'. These will need to be added to the database before they show up on the Browse. You may not wish to have them do so if they just meant to be linked to, or embedded into posts.
-- Update the database '/www/public/databases/content.txt' so that it lists all posts, pages, and resources. Each entry goes on its own line. It is formatted like a CSV file, but uses "|" as a separator instead of a comma. The entry format is "{$title}|{$relative_url}|{$type}|{$tags}".
+- Update the database '/www/public/databases/content.txt' so that it lists all posts, pages, and resources. Each entry goes on its own line. It is formatted like a CSV file, but uses "|" as a separator instead of a comma. The entry format is "{$title}|{$relative_url}|{$type}|{$tags}|{$thumbnail_url}|{$description_url}". You must provide a title, url, and type. Tags, thumbnails, and descriptions can be set as empty (e.g., "$tags||$description_url").
 - In '/www/public/robots.txt' replace "{$domain}" with your site's domain name.
 - In '/www/public/humans.txt' change the last updated date.
 - In '/www/public/sitemap.xml' replace "{$domain}" with your site's domain name.

@@ -1,7 +1,11 @@
 To Do:
+
+- Add support in browse.js for making a fourth type. By default it isn't used, but projects using this template might have a special kind of content of their own that this value could be used for. In the code identify it as "custom", but display a user specified value to site visitors. Some sites may not need this feature, so it needs to be hideable, and hidden by default.
+
 - Add support for distinguished snippets having an identifer that says "Snippet (i)", and a button below that says "View snippet licensing information.". When clicked it will display the div that has the licensing information, and change the message to "Hide snippet licensing information.". Clicking the identifier will provide a pop-over div that says "A snippet is a piece of content that is imported into the page from a seperate file. It may contain content that falls under different licensing terms."
-- Add support in browse.js for making "resource" links open in new tab by default. However, make this easy to disable in the code.
-- Make type indicator on browse page line up to right-side of page. Currently, because "post" and "page" are shorter words than "resource" there is blank space on their right side.
-- Transition more Javascript into js files.
-- Write instructions for setting it up on GitHub Pages, and GitLab Pages.
-- Write instructions for adding a Disqus comment section to posts.
+
+- Add support for entry tags in browse/search to be a single clickable link.
+- Consider changing header/footer to use flexbox.
+- Make it easier to upgrade between versions of the template?
+- Add pre-included thumbnails for various topics (e.g., computers, nature, cooking, etc).
+- Tweak colour scheme.
