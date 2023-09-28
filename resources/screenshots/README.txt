@@ -1,1 +1,1 @@
-These are screenshots of the website template running.
+These are screenshots of version 4 of the website template running.
