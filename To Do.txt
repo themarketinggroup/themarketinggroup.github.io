@@ -1,5 +1,0 @@
-To Do:
-- Add support for distinguished snippets having an identifer that says "Snippet (i)", and a button below that says "View snippet licensing information.". When clicked it will display the div that has the licensing information, and change the message to "Hide snippet licensing information.". Clicking the identifier will provide a pop-over div that says "A snippet is a piece of content that is imported into the page from a seperate file. It may contain content that falls under different licensing terms."
-- Add support for entry tags in browse/search to be a single clickable link.
-- Consider changing header/footer to use flexbox.
-- Add pre-included thumbnails for various topics (e.g., computers, nature, cooking, etc).

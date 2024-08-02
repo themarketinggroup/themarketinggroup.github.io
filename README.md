@@ -1,1 +1,3 @@
-This file is only here for compatibility purposes. See "/About.txt" instead.
+# Readme
+
+This file is just here for compatibility purposes. See '/About.txt' for information about the project.

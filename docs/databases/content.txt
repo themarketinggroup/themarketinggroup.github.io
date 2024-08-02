@@ -1,0 +1,9 @@
+Home|/|page|||
+About Us|/pages/about-us.html|page|Meta||
+Contact Us|/pages/contact-us.html|page|Meta||
+Licensing|/pages/licensing.html|page|Meta||
+Privacy Policy|/pages/privacy-policy.html|page|Meta||
+Terms of Service|/pages/terms-of-service.html|page|Meta||
+Meta|/pages/meta.html|page|Meta||
+Marketing Definition|/posts/marketing-definition/marketing-definition.html|post|Definition,Marketing|/assets/thumbnail-512x288.png|/posts/marketing-definition/description.txt
+Ritchey Permissive License v18|/foreign/uploads/ritchey_permissive_license_v18/Ritchey Permissive License v18.txt|resource|License||
