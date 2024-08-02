@@ -1,10 +1,11 @@
 Name: The Marketing Group - Website Core
-Version: 1
-Long Identifier: The Marketing Group - Website Core v1
+Version: 2
+Long Identifier: The Marketing Group - Website Core v2
 Short Identifier: n/a
 Description: The core of the official website for The Marketing Group.
 History:
  - Version 1 completed August 2, 2024.
+ - Version 2 completed August 2, 2024.
 Author: James Daniel Marrs Ritchey
 Licensing: This project is hereby licensed under the Ritchey Permissive License v18 license.
 Notes:
